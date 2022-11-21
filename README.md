@@ -34,4 +34,8 @@ Caso queira saber mais, contrate um pequeno curso. Neste curso começamos com um
 
 ## Contato
 
-Ficamos à disposição em clientes@novatrix.com.br 
+Ficamos à disposição em clientes@novatrix.com.br
+
+### Licença
+
+T-Cinc é protegida e licenciada sob a licença CC BY-NC-ND - https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
