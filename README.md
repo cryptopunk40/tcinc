@@ -39,3 +39,7 @@ Ficamos à disposição em clientes@novatrix.com.br
 ### Licença
 
 T-Cinc é protegida e licenciada sob a licença CC BY-NC-ND - https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+### Visca Catalunya
+
+Cinc é cinco na lingua catalã.
