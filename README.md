@@ -26,7 +26,7 @@ O detalhamento das etapas serão alvo de palestras e documentação a exclusiva 
 
 ## Execução
 
-A execução pode ser realizada por uma só empresa ou diversas trablhando em conjunto. Temos uma lista de empresas de tecnologia, criptoativos e escritórios jurídicos que podem auxiliar na aplicação do T-Cinc.
+A execução pode ser realizada por uma só empresa ou diversas trabalhando em conjunto. Temos uma lista de empresas de tecnologia, criptoativos e escritórios jurídicos que podem auxiliar na aplicação do T-Cinc.
 
 ## Próximos passos
 
