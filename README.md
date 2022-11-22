@@ -28,9 +28,20 @@ O detalhamento das etapas serão alvo de palestras e documentação a exclusiva 
 
 A execução pode ser realizada por uma só empresa ou diversas trablhando em conjunto. Temos uma lista de empresas de tecnologia, criptoativos e escritórios jurídicos que podem auxiliar na aplicação do T-Cinc.
 
-## Para saber mais
+## Próximos passos
 
-Caso queira saber mais, contrate um pequeno curso. Neste curso começamos com uma introdução a Blockchain, Smart Contract, DeFi e depois detalhamos cada etapa T-Cinc, com exemplos.
+Para saber mais, contrate um curso ou uma consultoria a sua corretora, banco, escritório jurídico, empresa de TI ou CriptoExchange.
+
+Caso optem pelo curso, o conteúdo é abrangente. A ementa é flexível para atender a necessidade da empresa. Entretando em linhas gerais são abordados os seguintes temas:
+
+* Introdução a Blockchain
+* O que são Smart Contracts
+* CeFi e DeFi
+* Estruturação economica de um Token
+* Design Jurídico e panorama regulatório
+* Estruturação Tecnológica para criação de Tokens seguros
+* Alternativas de planos de Marketing para divulgação dos Tokens
+* Possíveis canais de vendas e distribuição dos Tokens em plataformas CeFi e DeFi
 
 ## Contato
 
