@@ -22,7 +22,7 @@ O T-Cinc conduz o processo de Tokenização através de cinco etapas:
 * Plano de Marketing
 * Venda
 
-## Metodologia
+## Metodologia de execução
 
 O inicio é através de um workshop que mostra aplicações reais, fornecendo um caminho firme e bem centrado para empresas desenvolverem suas soluções.
 
