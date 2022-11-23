@@ -14,7 +14,7 @@ Para servir como referência e auxiliar o mercado o framework T-Cinc foi elabora
 
 ## Etapas
 
-Dentro do T-Cinc o processo de Tokenização se dá em cinco etapas:
+O T-Cinc conduz o processo de Tokenização através de cinco etapas:
 
 * Estruturação economica
 * Design Jurídico
@@ -22,17 +22,17 @@ Dentro do T-Cinc o processo de Tokenização se dá em cinco etapas:
 * Plano de Marketing
 * Venda
 
-O detalhamento das etapas serão alvo de palestras e documentação a exclusiva a clientes.
+## Metodologia
 
-## Execução
+O inicio é através de um workshop que mostra aplicações reais, fornecendo um caminho firme e bem centrado para empresas desenvolverem suas soluções.
 
-A execução pode ser realizada por uma só empresa ou diversas trabalhando em conjunto. Temos uma lista de empresas de tecnologia, criptoativos e escritórios jurídicos que podem auxiliar na aplicação do T-Cinc.
+Depois a execução de cada etapa pode ser realizada pela própria empresa ou com a colaboração de outras consultorias trabalhando em conjunto.
 
 ## Próximos passos
 
-Para saber mais, contrate um curso ou uma consultoria a sua corretora, banco, escritório jurídico, empresa de TI ou CriptoExchange.
+Para saber mais contrate o workshop ou uma consultoria a sua corretora, banco, escritório jurídico, empresa de TI ou CriptoExchange.
 
-Caso optem pelo curso, o conteúdo é abrangente. A ementa é flexível para atender a necessidade da empresa. Entretando em linhas gerais são abordados os seguintes temas:
+Caso optem pelo workshop, o conteúdo é abrangente. A ementa é flexível para envolver todas as áreas da empresa:
 
 * Introdução a Blockchain
 * O que são Smart Contracts
